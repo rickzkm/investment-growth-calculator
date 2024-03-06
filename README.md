@@ -55,6 +55,6 @@ And additionally a table with each year
 
 ![Investment table](https://github.com/rickzkm/investment-growth-calculator/blob/main/pictures/table.png?raw=true)
 
-### License
+## License
 
-- Feel free to change, customise and modify without any limitations.
+Feel free to change, customise and modify without any limitations. Just remember, with great power comes great... well, you get the idea. Be kind to your fellow developers, play nice with the code, and above all, have fun!
