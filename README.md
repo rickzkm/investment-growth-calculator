@@ -49,11 +49,11 @@ This script calculates the future value of an investment over a specified number
 
 Consider an initial investment of 100,000 Czech Koruna, with a yearly contribution of 120,000 Czech Koruna and an annual interest rate of 12% over 20 years. Running the script will display the future value of the investment after 20 years and save a plot illustrating the investment growth.
 
-![www](https://github.com/rickzkm/investment-growth-calculator/pictures/graph.png)
+![Investment plot](https://github.com/rickzkm/investment-growth-calculator/blob/main/pictures/graph.png?raw=true)
 
 And additionally a table with each year 
 
-![www](https://github.com/rickzkm/investment-growth-calculator/pictures/table.png)
+![Investment table](https://github.com/rickzkm/investment-growth-calculator/blob/main/pictures/table.png?raw=true)
 
 ### License
 
